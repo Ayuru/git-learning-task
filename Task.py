@@ -19,3 +19,5 @@ for shop, products in shopping_list.items():
 result += "\nW sumie kupuję " + str(counter) + " produktów."
 
 print(result)
+
+# Pierwsza zmiana
