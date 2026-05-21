@@ -1,0 +1,1 @@
+print("Życzę miłego dnia : >")
